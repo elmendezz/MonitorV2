@@ -75,7 +75,7 @@
         async function actualizarDatos() {
             try {
                 // --- ⚠️ ¡URL ACTUALIZADA! ⚠️ ---
-                const url = 'https://raw.githubusercontent.com/elmendezz/MonitorV2/main/data.json';
+                const url = 'https://raw.githubusercontent.com/elmendezz/Monitor/main/data.json';
                 
                 // Añadimos un parámetro para evitar que el navegador use una versión en caché
                 const response = await fetch(`${url}?t=${new Date().getTime()}`);
