@@ -3,11 +3,11 @@
     "chargingStatus": "Charging",
     "power": "0.00W",
     "current": "0.000A",
-    "voltage": "4230.00V",
+    "voltage": "4214.00V",
     "temperature": "33.7\u00b0C",
     "timeToFull": "N/A",
     "foregroundApp": "u0 com.termux",
-    "backgroundApps": 287,
-    "uptime": "0 weeks, 0 days, 2 hours, 46 minutes",
-    "log": "[2025-09-28 00:28:19] - Push desde Termux (Dumpsys)."
+    "backgroundApps": 286,
+    "uptime": "0 weeks, 0 days, 2 hours, 47 minutes",
+    "log": "[2025-09-28 00:28:51] - Push desde Termux (Dumpsys)."
 }
